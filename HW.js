@@ -24,11 +24,11 @@ var item7_type = typeof(item7);
 console.log('item7 == ' + item7 + ';','Type item7 == ' + item7_type + ';');
 var age1 = 10, age2 = 18, age3 = 60;
 if(age1<age2){
-    console.log('You don’t have access cause your age is ' + age1 + 'It`s less then ')
+    console.log('You don’t have access cause your age is ' + age1 + ' It`s less then ');
 } else if(age1>=age2, age1<age3){
-    console.log('Wellcome!')
+    console.log('Wellcome!');
 } else if(age1>age3){
-    console.log('Ceep calm and look Culture channel')
+    console.log('Ceep calm and look Culture channel');
 } else{
-    console.log('Tecnical Work')
+    console.log('Tecnical Work');
 };
