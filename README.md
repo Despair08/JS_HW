@@ -1,4 +1,4 @@
-# JS_HW 1  
+# [JS_HW 1](https://github.com/Despair08/JS_HW/blob/main/HW.js)  
     1. Создать переменную “item_1”  
     2. Присвоить переменной item_1 цифру 5.  
     3. Вывести в консоль item_1.  
